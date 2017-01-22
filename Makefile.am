@@ -1,0 +1,4 @@
+bin_PROGRAMS=simpleexample compress decompress
+simpleexample_SOURCES=simpleexample.c
+compress_SOURCES=compress.c
+decompress_SOURCES=decompress.c
